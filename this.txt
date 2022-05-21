@@ -1,7 +1,6 @@
 todolist
 - wake up
 - breakfast
-- shower
 - work
 - lunch
 - go home
